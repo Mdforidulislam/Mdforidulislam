@@ -44,13 +44,12 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mdforidulislam&theme=noctis_minimus)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mdforidulislam&theme=noctis_minimus) 
 
 </p>
-    <div>
-            <p  align="left">![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mdforidulislam&theme=noctis_minimus) </p>
-            <p>
+
+         <p>
             <a  align="right" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=merko&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
-    </div>
 </p>
 
 
