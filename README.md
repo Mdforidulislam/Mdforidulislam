@@ -12,14 +12,14 @@
 ## 📞 Connect with me
 <p align="left">
 
-<a class='block' href="https://twitter.com/Shuvajit_Maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mdforidulislam" height="30" width="40" /></a>
+<a  href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mdforidulislam" height="30" width="40" /></a>
 
 
-<a class='block' href="https://www.linkedin.com/in/foridul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mdforidulislam" height="30" width="40" /></a>
+<a  href="https://www.linkedin.com/in/foridul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mdforidulislam" height="30" width="40" /></a>
 
-<a class='block' href="https://www.facebook.com/profile.php?id=100004476468209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mdforidulislam" height="30" width="40" /></a>
+<a  href="https://www.facebook.com/profile.php?id=100004476468209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mdforidulislam" height="30" width="40" /></a>
 
-<a class='block' href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mdforidulislam" height="30" width="40" /></a>
+<a  href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mdforidulislam" height="30" width="40" /></a>
 </p>
 
 
@@ -42,16 +42,16 @@
 ## 📈 Current stats
 <p  align="center">
 
-<img   width="70%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shuvajitmaitra&hide_border=true" alt="Mdforidulislam" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mdforidulislam&theme=noctis_minimus)
 
 </p>
 
-<p>
-<img align="left"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvajitmaitra&show_icons=true&locale=en&layout=compact" alt="Mdforidulislam" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mdforidulislam&theme=noctis_minimus)
+
+<img   width="70%"  src="https://api.githubtrends.io/user/svg/Mdforidulislam/langs?time_range=one_year&theme=bright_lights" alt="Mdforidulislam" />
 
 <p>
-<img align="left"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en" alt="Mdforidulislam" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=merko&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
 </p>
 
 
