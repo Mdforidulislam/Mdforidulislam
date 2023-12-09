@@ -67,6 +67,7 @@
 
 
 <!-- Streak -->
-<a href="https://git.io/streak-stats" style="display: block; width: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=transparent&hide_border=true&card_width=100%" alt="GitHub Streak" style="width: 100%;" />
+<a href="https://git.io/streak-stats" style="display: block; width: 100%; height: 150px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=transparent&hide_border=true&card_width=100%" alt="GitHub Streak" style="width: 100%; height: 150px;" />
 </a>
+
