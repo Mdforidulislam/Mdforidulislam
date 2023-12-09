@@ -65,12 +65,14 @@
   </tr>
 </table>
 
-
 <!-- Streak and Repos Per Language Side-by-Side -->
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=date-night&card_width=500" alt="GitHub Streak" /></a>
-  <a style="border: 1px solid #ddd; padding: 5px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mdforidulislam&theme=outrun" alt="Repos Per Language" width="49%" />
+  <a href="https://git.io/streak-stats" style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=date-night&card_width=500" alt="GitHub Streak" style="width: 100%" />
   </a>
 </p>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mdforidulislam&theme=outrun)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mdforidulislam&theme=outrun&utcOffset=8)
