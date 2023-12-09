@@ -66,9 +66,17 @@
 </table>
 
 
-<!-- Streak -->
-<a href="https://git.io/streak-stats" style="display: block; width: 100%; height: 200px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=transparent&hide_border=true&card_width=100%" alt="GitHub Streak" style="width: 100%; height: 100%;" />
-</a>
+<!-- Streak and Repos Per Language Side-by-Side -->
+
+<div style="display: flex; width: 100%;">
+  <div style="flex: 1; padding-right: 10px;">
+    <!-- Streak -->
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=transparent&hide_border=true&card_width=100%)](https://git.io/streak-stats)
+  </div>
+  <div style="flex: 1; padding-left: 10px;">
+    <!-- Repos Per Language -->
+    ![Repos Per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mdforidulislam&theme=outrun)
+  </div>
+</div>
 
 
