@@ -75,7 +75,7 @@
 
 <!-- Displaying Images Vertically -->
 <p align="center" style="border: 1px solid white;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mdforidulislam&theme=outrun" alt="Repos Per Language" style="width: 100%; border: 1px solid white; " />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mdforidulislam&theme=outrun&utcOffset=8" alt="Productive Time" style="width: 100%; border: 1px solid white;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mdforidulislam&theme=outrun" alt="Repos Per Language" style="width: 50%; border: 1px solid white; " />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mdforidulislam&theme=outrun&utcOffset=8" alt="Productive Time" style="width: 50%; border: 1px solid white;" />
 </p>
 
