@@ -74,7 +74,7 @@
 
 
 <!-- Displaying Images in a Table -->
-<table align="center" style="border-collapse: collapse; width: 100%; border: 1px solid white;">
+<table style="border-collapse: collapse; width: 100%; border: 1px solid white;">
   <tr>
     <td style="border: 1px solid white;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mdforidulislam&theme=outrun" alt="Repos Per Language" style="width: 100%; border: 1px solid white;" />
