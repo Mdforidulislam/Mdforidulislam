@@ -33,6 +33,8 @@
 
 
 
+
+
 ## ⚔️ Languages and Tools
 
 <p align="center">
@@ -64,11 +66,5 @@
 </table>
 
 <!-- Streak -->
-<a href="https://git.io/streak-stats" style="display: block; width: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=merko&hide_border=true&card_width=500" alt="GitHub Streak" style="width: 100%;" />
-</a>
 
-
-
-
-
+<a href="https://git.io/streak-stats" style="display: block; width: 100%;"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=transparent&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
