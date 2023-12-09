@@ -42,16 +42,15 @@
 ## 📈 Current stats
 <p  align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mdforidulislam&theme=noctis_minimus)
-
-</p>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mdforidulislam&theme=noctis_minimus)
 
-<img   width="70%"  src="https://api.githubtrends.io/user/svg/Mdforidulislam/langs?time_range=one_year&theme=bright_lights" alt="Mdforidulislam" />
 
-<p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=merko&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+</p>
+    <div>
+            <p  align="left">![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mdforidulislam&theme=noctis_minimus) </p>
+            <p>
+            <a  align="right" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=merko&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
+    </div>
 </p>
 
 
