@@ -1,5 +1,4 @@
-
-[![Cover Photo](https://raw.githubusercontent.com/shuvajitmaitra/shuvajitmaitra/main/images/Cover_Image.png "Cover Photo")](https://www.facebook.com/iamshuvajit/)
+[![Cover Photo](https://github.com/Mdforidulislam/Mdforidulislam/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png?raw=true "Cover Photo")](https://www.linkedin.com/in/foridul/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvajitmaitra&label=Profile%20views&color=0e75b6&style=flat" alt="shuvajitmaitra" /> </p>
 
@@ -12,7 +11,7 @@
 
 ## 📞 Connect with me
 <p align="left">
-<a href="https://twitter.com/Shuvajit_Maitra" target="blank"><img align="center" src="https://github.com/Mdforidulislam/Mdforidulislam/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png?raw=true" alt="shuvajit_maitra" height="30" width="40" /></a>
+<a href="https://twitter.com/Shuvajit_Maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvajit_maitra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shuvajit-maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvajit-maitra" height="30" width="40" /></a>
 <a href="https://fb.com/iamshuvajit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamshuvajit" height="30" width="40" /></a>
 <a href="https://instagram.com/shuvajit_maitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuvajit_maitra" height="30" width="40" /></a>
@@ -45,3 +44,5 @@
 <p>
 <img align="left"  width="50%"  src="https://github-readme-stats.vercel.app/api?username=shuvajitmaitra&show_icons=true&locale=en" alt="shuvajitmaitra" />
 </p>
+
+
