@@ -68,9 +68,7 @@
 
 <!-- Streak and Repos Per Language Side-by-Side -->
 <p align="center">
-  <a href="https://git.io/streak-stats" style="border: 1px solid #ddd; padding: 5px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=transparent&hide_border=true&card_width=100%" alt="GitHub Streak" width="49%" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=date-night&card_width=500" alt="GitHub Streak" /></a>
   <a style="border: 1px solid #ddd; padding: 5px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mdforidulislam&theme=outrun" alt="Repos Per Language" width="49%" />
   </a>
