@@ -65,10 +65,11 @@
   </tr>
 </table>
 
-<!-- Streak and Repos Per Language Side-by-Side -->
-<p align="center" style='width:100%'>
-  <a href="https://git.io/streak-stats" style="flex: 1;"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=github-green-purple&card_width=500" alt="GitHub Streak" /></a>
+<!-- GitHub Streak Image Full Width -->
+<p align="center" style="width:100%;">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=github-green-purple&card_width=500" alt="GitHub Streak" style="width:100%;"></a>
 </p>
+
 
 
 <!-- Displaying Images in Nested Tables -->
