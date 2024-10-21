@@ -1,15 +1,10 @@
 [![Cover Photo](https://github.com/Mdforidulislam/Mdforidulislam/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png?raw=true "Cover Photo")](https://www.linkedin.com/in/foridul/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvajitmaitra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvajitmaitra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
 
 ### 🌱 Currently Learning: MERN Development
 ### 🔭 Exploring: The Technology about Development ( React js , node js, mongoDB , Express js)
 ### 📫 How to Reach Me: [mdforidulislam962@gmail.com](mailto:mdforidulislam962@gmail.com)
-
-
 
 ## 📞 Connect with Me
 
@@ -32,9 +27,6 @@
 </p>
 
 
-
-
-
 ## ⚔️ Languages and Tools
 
 <p align="center">
@@ -47,8 +39,6 @@
     <img src="https://skillicons.dev/icons?i=express,mongodb,figma,github" />
   </a>
 </p>
-
-
 
 
 <!-- Stats -->
@@ -71,8 +61,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=transparent&card_width=500" alt="GitHub Streak" style="width: 100%;">
   </a>
 </p>
-
-
 
 
 <!-- Displaying Images in Nested Tables -->
