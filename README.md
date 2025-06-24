@@ -1,10 +1,13 @@
-[![Cover Photo](https://github.com/Mdforidulislam/Mdforidulislam/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png?raw=true "Cover Photo")](https://www.linkedin.com/in/foridul/)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Mdforidulislam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvajitmaitra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></p>
-
-### 🌱 Currently Learning: MERN Development
-### 🔭 Exploring: The Technology about Development ( React js , node js, mongoDB , Express js)
+### 💡 Passionate About: Backend Development & Scalable Architecture  
+### 🌱 Currently Mastering: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+### 🔭 Focused On: Building Secure APIs, Auth Systems, and Real-World Server-Side Applications  
 ### 📫 How to Reach Me: [mdforidulislam962@gmail.com](mailto:mdforidulislam962@gmail.com)
+
+---
 
 ## 📞 Connect with Me
 
@@ -26,22 +29,23 @@
   </a>
 </p>
 
+---
 
 ## ⚔️ Languages and Tools
 
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,html,css,firebase" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,js,ts" />
   </a>
 </p>
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=express,mongodb,figma,github" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma,github" />
   </a>
 </p>
 
+---
 
-<!-- Stats -->
 ## 📈 Current Stats
 
 <table width="100%">
@@ -58,10 +62,11 @@
 <!-- GitHub Streak Image Full Width -->
 <p align="center" style="width: 100%; overflow-x: hidden;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=transparent&card_width=500" alt="GitHub Streak" style="width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mdforidulislam&theme=transparent&card_width=500" alt="GitHub Streak" style="width: 100%;" />
   </a>
 </p>
 
+---
 
 <!-- Displaying Images in Nested Tables -->
 <table align="center" style="border-collapse: collapse; width: 100%; border: 1px solid white;">
@@ -79,11 +84,10 @@
       <table style="border-collapse: collapse; width: 100%; border: 1px solid white;">
         <tr>
           <td style="border: 1px solid white;">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mdforidulislam&theme=outrun&utcOffset=8" alt="Productive Time" style="width: 100%; border: 1px solid white;" />
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mdforidulislam&theme=outrun&utcOffset=6" alt="Productive Time" style="width: 100%; border: 1px solid white;" />
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
-
