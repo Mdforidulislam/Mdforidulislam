@@ -2,10 +2,40 @@
   <img src="https://komarev.com/ghpvc/?username=Mdforidulislam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 💡 Passionate About: Backend Development & Scalable Architecture  
-### 🌱 Currently Mastering: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-### 🔭 Focused On: Building Secure APIs, Auth Systems, and Real-World Server-Side Applications  
-### 📫 How to Reach Me: [mdforidulislam962@gmail.com](mailto:mdforidulislam962@gmail.com)
+# 👋 Hey there! I'm Foridul Islam
+
+### 💻 Passionate Backend Developer | Focused on System-Level Engineering  
+### 🔥 Dedicated to mastering technologies that **scale**, **secure**, and **connect** the digital world  
+### 📫 Reach Me: [mdforidulislam962@gmail.com](mailto:mdforidulislam962@gmail.com)
+
+---
+
+## 🚀 Now Mastering
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,graphql,nestjs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=socketio,mongoose,ts" />
+</p>
+
+> 🧠 **Diving deep** into: Server-side development, Real-time communication, API Architecture, ORM, and Full-stack efficiency.
+
+---
+
+## 🌟 Future Mastery Goals
+
+<table width="100%" style="text-align: center;">
+  <tr>
+    <td><strong>🧱 System Design</strong><br/><sub>Scalability, High Availability, Load Balancing</sub></td>
+    <td><strong>🧠 AI + MCP Server</strong><br/><sub>Context-Aware Models, Smart Data Routing</sub></td>
+  </tr>
+  <tr>
+    <td><strong>🐧 Linux + DevOps</strong><br/><sub>Shell, Docker, CI/CD, Monitoring, Deployment</sub></td>
+    <td><strong>🧩 Problem Solving</strong><br/><sub>DSA, Competitive Coding, Logic Building</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -35,12 +65,12 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,js,ts" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,graphql,nestjs,socketio" />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,figma,github" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,firebase,figma,github" />
   </a>
 </p>
 
@@ -91,3 +121,10 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🧠 Dev Mindset
+
+> _"I’m not just building APIs or services — I'm building systems that last, scale, and solve real problems."_  
+> — **Foridul Islam**
