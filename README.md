@@ -2,82 +2,127 @@
 <h3 align="center">Backend & Infrastructure Engineer</h3>
 
 <p align="center">
-Designing scalable backend systems, distributed architectures, and production-grade infrastructure.
-</p>
-
-<p align="center">
-  <a href="mailto:mdforidulislam962@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/foridul">LinkedIn</a> •
-  <a href="https://github.com/Mdforidulislam">GitHub</a>
+I design distributed backend systems that scale under load, minimize latency,
+and survive real-world production traffic.
 </p>
 
 ---
 
-## Engineering Focus
+## Core Engineering Areas
 
-I build backend systems that are reliable under pressure —  
-event-driven, horizontally scalable, and production hardened.
-
----
-
-## Core Stack
-
-### Backend & Runtime
+### Backend & Runtime Systems
 Node.js • NestJS • Express • GraphQL • TypeScript  
-Worker Threads • Cluster • PM2  
-Socket.IO • Event-Driven Architecture  
-Bull / BullMQ • Kafka • RabbitMQ  
+Worker Threads • Cluster Mode • PM2  
+Event-Driven Architecture  
+Background Processing (Bull / BullMQ)  
+Message Brokers (Kafka, RabbitMQ)  
+Real-Time Systems (WebSockets, Socket.IO)
 
-### Data & Storage
+---
+
+### Data & Storage Engineering
 PostgreSQL • MongoDB • Redis  
 Prisma • Mongoose  
-Indexing • Query Optimization • Transaction Handling  
-
-### Cloud & Infrastructure
-AWS (EC2, S3, IAM, VPC Basics)  
-Docker • Containerization Concepts  
-Kubernetes (Core Concepts, Pods, Services, Deployments)  
-Nginx • Reverse Proxy • Load Balancing  
-Linux Server Management  
-
-### CI/CD & DevOps
-Jenkins  
-GitHub Actions  
-Automated Build & Deployment Pipelines  
-Production Environment Configuration  
+Index Optimization • Transactions • Query Tuning  
+Caching Strategies • Data Modeling for Scale  
 
 ---
 
-## System Engineering Experience
+### Cloud, DevOps & Infrastructure
+AWS (EC2, IAM, S3, VPC Basics)  
+Docker • Containerization  
+Kubernetes (Pods, Services, Deployments – Concept Level)  
+Nginx Reverse Proxy  
+CI/CD (Jenkins, GitHub Actions)  
+Linux Server Administration  
 
-• Designing scalable REST & modular API systems  
-• Managing production servers (process control, monitoring, uptime)  
-• Implementing background job processing  
-• Building real-time communication systems  
-• Applying concurrency & async performance optimization  
-• Infrastructure-level debugging  
+---
+
+### Networking & System Concepts
+
+TCP/IP Fundamentals  
+HTTP / HTTPS Lifecycle  
+DNS Resolution Flow  
+SSL/TLS Basics  
+Reverse Proxy Architecture  
+Load Balancing Strategies (Layer 4 / Layer 7)  
+Latency Optimization  
+Throughput vs Response Time  
+Connection Pooling  
+Horizontal vs Vertical Scaling  
+High Availability Design  
+Fault Tolerance  
+Rate Limiting & Traffic Control  
+API Gateway Concepts  
+
+---
+
+## Production Engineering Experience
+
+• Managing live server processes  
+• Optimizing API latency  
+• Designing scalable REST architectures  
+• Implementing load-aware background workers  
+• Debugging infrastructure-level issues  
+• Structuring systems for future microservices migration  
 
 ---
 
 ## Advanced Direction
 
-• Distributed Systems Design  
-• High Availability Architectures  
-• Microservices & Service Communication  
-• Performance-First Engineering  
+Distributed Systems  
+Microservices Architecture  
+Observability & Monitoring  
+System Design at Scale  
+AI-Integrated Backend Systems  
 
 ---
 
-## AI & Intelligent Systems (Next Phase)
+---
 
-• Model Training Fundamentals  
-• Context-Aware Systems (MCP Concepts)  
-• Building Custom Agent-Based Models  
-• AI-Driven Backend Automation  
+## Future Engineering Direction
+
+### Distributed & Scalable Systems
+• Deep distributed system architecture  
+• Service-to-service communication patterns  
+• Event streaming at scale  
+• CAP theorem & consistency trade-offs  
+• Advanced load balancing strategies  
+
+---
+
+### Cloud-Native Infrastructure
+• Advanced AWS architecture design  
+• Production-grade Kubernetes orchestration  
+• Infrastructure as Code (Terraform – upcoming)  
+• Auto-scaling & traffic-aware deployments  
+• Multi-region deployment strategies  
+
+---
+
+### Performance & Networking Mastery
+• Latency profiling & reduction techniques  
+• TCP optimization & connection management  
+• Advanced caching layers  
+• Edge distribution concepts (CDN, geo-routing)  
+• Observability (metrics, tracing, structured logging)  
+
+---
+
+### AI & Intelligent Systems Engineering
+• Model training fundamentals  
+• Context-aware system architecture  
+• Building custom AI agents  
+• AI-driven backend automation  
+• Intelligent orchestration systems  
 
 ---
 
 <p align="center">
-Building systems that scale.  
-Engineering infrastructure that lasts.
+Long-term goal: Architect globally distributed, intelligent systems 
+that combine cloud infrastructure with AI-driven decision layers.
+</p>
+
+<p align="center">
+Focused on building resilient, low-latency, high-availability backend systems.
 </p>
