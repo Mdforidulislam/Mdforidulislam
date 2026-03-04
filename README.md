@@ -1,161 +1,83 @@
-<!-- ============================== -->
-<!--          HERO SECTION         -->
-<!-- ============================== -->
-
 <h1 align="center">Foridul Islam</h1>
-<h3 align="center">Backend Engineer • System-Level Thinker • Infrastructure Builder</h3>
+<h3 align="center">Backend & Infrastructure Engineer</h3>
 
 <p align="center">
-  I design and build scalable backend systems, real-time architectures, 
-  and production-ready infrastructures that are built to last.
+Designing scalable backend systems, distributed architectures, and production-grade infrastructure.
 </p>
 
 <p align="center">
-  <a href="mailto:mdforidulislam962@gmail.com">📫 Email</a> • 
-  <a href="https://www.linkedin.com/in/foridul">LinkedIn</a> • 
+  <a href="mailto:mdforidulislam962@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/foridul">LinkedIn</a> •
   <a href="https://github.com/Mdforidulislam">GitHub</a>
 </p>
 
 ---
 
-# 🧠 Engineering Philosophy
+## Engineering Focus
 
-> I don't just write APIs.  
-> I design systems that scale, recover, and evolve.
-
-- Performance over hype  
-- Structure over chaos  
-- Simplicity over unnecessary complexity  
-- Automation over repetition  
+I build backend systems that are reliable under pressure —  
+event-driven, horizontally scalable, and production hardened.
 
 ---
 
-# 🏗️ Core Engineering Domains
+## Core Stack
+
+### Backend & Runtime
+Node.js • NestJS • Express • GraphQL • TypeScript  
+Worker Threads • Cluster • PM2  
+Socket.IO • Event-Driven Architecture  
+Bull / BullMQ • Kafka • RabbitMQ  
+
+### Data & Storage
+PostgreSQL • MongoDB • Redis  
+Prisma • Mongoose  
+Indexing • Query Optimization • Transaction Handling  
+
+### Cloud & Infrastructure
+AWS (EC2, S3, IAM, VPC Basics)  
+Docker • Containerization Concepts  
+Kubernetes (Core Concepts, Pods, Services, Deployments)  
+Nginx • Reverse Proxy • Load Balancing  
+Linux Server Management  
+
+### CI/CD & DevOps
+Jenkins  
+GitHub Actions  
+Automated Build & Deployment Pipelines  
+Production Environment Configuration  
 
 ---
 
-## 🖥️ Server Architecture & Runtime Systems
+## System Engineering Experience
 
-**Backend Frameworks**
-- Node.js  
-- NestJS  
-- Express  
-- GraphQL  
-
-**System Engineering**
-- Thread Handling (Worker Threads)  
-- Process Handling (Cluster, PM2)  
-- Event-Driven Architecture  
-- Background Jobs (Bull / BullMQ)  
-- Message Brokers (Kafka, RabbitMQ)  
-- Real-Time Systems (Socket.IO, WebSockets)  
-
-**Security & API**
-- JWT Authentication  
-- Role-Based Authorization  
-- RESTful & Modular API Design  
-- Rate Limiting & Validation  
+• Designing scalable REST & modular API systems  
+• Managing production servers (process control, monitoring, uptime)  
+• Implementing background job processing  
+• Building real-time communication systems  
+• Applying concurrency & async performance optimization  
+• Infrastructure-level debugging  
 
 ---
 
-## 🗄️ Database & Data Engineering
+## Advanced Direction
 
-**Databases**
-- MongoDB  
-- PostgreSQL  
-
-**ORM & Tools**
-- Prisma  
-- Mongoose  
-
-**Data Expertise**
-- Schema Design  
-- Index Optimization  
-- Query Performance Tuning  
-- Transaction Handling  
-- Data Modeling for Scale  
-- Caching Strategy (Redis)
+• Distributed Systems Design  
+• High Availability Architectures  
+• Microservices & Service Communication  
+• Performance-First Engineering  
 
 ---
 
-## ⚙️ DevOps & Infrastructure Engineering
+## AI & Intelligent Systems (Next Phase)
 
-**Containerization & Environment**
-- Docker  
-- Linux Server Management  
-
-**CI/CD & Automation**
-- Jenkins  
-- GitHub Actions  
-- Automated Deployment Pipelines  
-
-**Infrastructure**
-- Nginx Reverse Proxy  
-- Load Balancing  
-- Monitoring & Logging  
-- Production Hardening  
-
----
-
-# 🚀 Advanced System Focus
-
-- Distributed Systems Thinking  
-- High Availability Architecture  
-- Microservices Design  
-- Horizontal Scaling  
-- Fault Tolerance & Recovery  
-
----
-
-# 🤖 AI & Intelligent Systems (Future Mastery)
-
-- AI Instructor-Level Understanding  
-- Model Training Fundamentals  
-- Context-Aware Systems (MCP)  
-- Building Custom Agent Models  
-- AI-Driven Automation Systems  
-
----
-
-# 🧩 Problem Solving & Computer Science
-
-- Data Structures & Algorithms  
-- Competitive Programming  
-- Performance Optimization  
-- Low-Level System Thinking  
-
----
-
-# 📈 Development Approach
-
-- Write clean, maintainable code  
-- Design before implementation  
-- Automate everything possible  
-- Think long-term scalability  
-- Build systems that survive production  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mdforidulislam&theme=noctis_minimus" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mdforidulislam&theme=noctis_minimus" />
-</p>
-
----
-
-# 🔥 Current Mission
-
-Master system-level backend engineering.  
-Build intelligent distributed systems.  
-Engineer infrastructure that scales globally.
+• Model Training Fundamentals  
+• Context-Aware Systems (MCP Concepts)  
+• Building Custom Agent-Based Models  
+• AI-Driven Backend Automation  
 
 ---
 
 <p align="center">
-  ⚡ Building the backend layer of tomorrow's digital systems.
+Building systems that scale.  
+Engineering infrastructure that lasts.
 </p>
