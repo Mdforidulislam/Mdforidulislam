@@ -82,15 +82,6 @@ AI-Integrated Backend Systems
 
 ## Future Engineering Direction
 
-### Distributed & Scalable Systems
-• Deep distributed system architecture  
-• Service-to-service communication patterns  
-• Event streaming at scale  
-• CAP theorem & consistency trade-offs  
-• Advanced load balancing strategies  
-
----
-
 ### Cloud-Native Infrastructure
 • Advanced AWS architecture design  
 • Production-grade Kubernetes orchestration  
